@@ -1,2 +1,2 @@
 # finance
-Personal Finance
+Platform for multiple personal finance applications
